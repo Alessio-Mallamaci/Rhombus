@@ -9,7 +9,6 @@
 #include "CRhombus.h"
 
 using namespace std;
-
 /// @brief default constructor 
 Rhombus::Rhombus() {
 
